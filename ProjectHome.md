@@ -1,0 +1,3 @@
+GLExOx consists of a Python communications driver for the CMS-50D+ and a user-facing application. The application provides a live PPG plot and readouts of heart rate and SpO\_2 as well as logging functionality.
+Currently the code is incomplete and un-polished, but the functions mentioned above are all working.
+The future feature wishlist includes support for additional devices (other than the CMS-50D+) and a utility for reviewing log data.
